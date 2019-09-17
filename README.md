@@ -1,1 +1,1 @@
-# cammanager_update
+# SVIDIA CamManager update channel
