@@ -3,7 +3,7 @@
 ### SVidia_CamManager_1_0_1_64
 *Apr 28, 2020*
 - added PTZ control function and settings
-- option to send crash report on cloud
+- option to send crash report to cloud
 - fixed alarm mask setting issue
 - visual fixes and stability improvement
     
