@@ -1,5 +1,11 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_65
+*Jul 02, 2020*
+- fixed Arecont cameras management
+- redesigned default/model/custom camera passwords handling
+- displays camera model for unauthorized cameras
+
 ### SVidia_CamManager_1_0_1_64
 *Apr 28, 2020*
 - added PTZ control function and settings
