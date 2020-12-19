@@ -6,7 +6,7 @@
 - removed explicit dependencies for external packages
 - removed default site password
 - added onvif based password change function
-- minor visual and stabilty improvements
+- minor visual and stability improvements
 
 ### SVidia_CamManager_1_0_1_65
 *Jul 02, 2020*
