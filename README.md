@@ -1,5 +1,13 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_68
+*Dec 18, 2020*
+- improved batch mode configuration for UNV cameras
+- removed explicit dependencies for external packages
+- removed default site password
+- added onvif based password change function
+- minor visual and stabilty improvements
+
 ### SVidia_CamManager_1_0_1_65
 *Jul 02, 2020*
 - fixed Arecont cameras management
