@@ -2,7 +2,7 @@
 
 ### SVidia_CamManager_1_0_1_69
 *Dec 21, 2020*
-- improved camera detectiom mechanism
+- improved camera detection mechanism
 - improved batch mode configuration for UNV cameras
 - removed explicit dependencies for external packages
 - removed default site password
