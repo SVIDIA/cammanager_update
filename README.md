@@ -1,7 +1,8 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_68
-*Dec 18, 2020*
+### SVidia_CamManager_1_0_1_69
+*Dec 21, 2020*
+- improved camera detectiom mechanism
 - improved batch mode configuration for UNV cameras
 - removed explicit dependencies for external packages
 - removed default site password
