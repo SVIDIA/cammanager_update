@@ -1,5 +1,10 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_70
+*Feb 01, 2021*
+- added support for new unv cameras
+- fixed custom password issues
+
 ### SVidia_CamManager_1_0_1_69
 *Dec 21, 2020*
 - improved camera detection mechanism
