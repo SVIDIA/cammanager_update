@@ -2,7 +2,7 @@
 
 ### SVidia_CamManager_1_0_1_71
 *Jun 01, 2021*
-- minor updates to support analytics enabled vcore workers
+- minor update to support analytics enabled vcore workers
  
 ### SVidia_CamManager_1_0_1_70
 *Feb 01, 2021*
