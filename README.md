@@ -1,6 +1,11 @@
 # SVIDIA CamManager update channel
 
 ### SVidia_CamManager_1_0_1_71
+*Jul 02, 2021*
+- enabled feature to allow migrate camera settings when switching between source modules
+- added swap/move/duplicate menu and drag-n-drop options to allow oprganize cameras across NVRs
+
+### SVidia_CamManager_1_0_1_71
 *Jun 01, 2021*
 - minor update to support analytics enabled vcore workers
  
