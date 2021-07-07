@@ -1,5 +1,9 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_74
+*Jul 06, 2021*
+- minor bug fixing
+
 ### SVidia_CamManager_1_0_1_73
 *Jul 03, 2021*
 - enabled feature to allow migrate camera settings when switching between source modules
