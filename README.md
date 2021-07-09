@@ -7,8 +7,8 @@
 - adjusted UI when low res display is used
 - minor bug fixing
 
-### SVidia_CamManager_1_0_1_73
-*Jul 03, 2021*
+### SVidia_CamManager_1_0_1_74
+*Jul 06, 2021*
 - enabled feature to allow migrate camera settings when switching between source modules
 - added swap/move/duplicate menu and drag-n-drop options to allow oprganize cameras across NVRs
 
