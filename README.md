@@ -1,7 +1,10 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_74
-*Jul 06, 2021*
+
+### SVidia_CamManager_1_0_1_75
+*Jul 09, 2021*
+- added fine tuning for VCore analytics enabled workers
+- adjusted UI when low res display is used
 - minor bug fixing
 
 ### SVidia_CamManager_1_0_1_73
