@@ -1,5 +1,9 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_76
+*Aug 06, 2021*
+- added possibility to view camera logs and analytics messages
+- fixed bug preventing edit camera settings
 
 ### SVidia_CamManager_1_0_1_75
 *Jul 09, 2021*
