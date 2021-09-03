@@ -1,5 +1,10 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_77
+*Sep 03, 2021*
+- added VCore analytics workers settings and output visualization
+- minor visual bug fixing and performance improvenets 
+
 ### SVidia_CamManager_1_0_1_76
 *Aug 06, 2021*
 - added possibility to view camera logs and analytics messages
