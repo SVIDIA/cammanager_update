@@ -3,7 +3,7 @@
 ### SVidia_CamManager_1_0_1_77
 *Sep 03, 2021*
 - added VCore analytics workers settings and output visualization
-- minor visual bug fixing and performance improvenets 
+- minor visual bug fixing and performance improvements 
 
 ### SVidia_CamManager_1_0_1_76
 *Aug 06, 2021*
