@@ -1,5 +1,10 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_80
+*Oct 12, 2021*
+- fixed camera configuration mask drawing crash
+- minor visual bug fixing
+
 ### SVidia_CamManager_1_0_1_77
 *Sep 03, 2021*
 - added VCore analytics workers settings and output visualization
