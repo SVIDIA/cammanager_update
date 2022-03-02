@@ -1,5 +1,11 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_81
+*Mar 01, 2022*
+- fixed cam source properties editing issue
+- added sorting by ip addr in batch mode UI
+- minor visual and stability improvements
+
 ### SVidia_CamManager_1_0_1_80
 *Oct 12, 2021*
 - fixed camera configuration mask drawing crash
