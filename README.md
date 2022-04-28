@@ -2,7 +2,7 @@
 
 ### SVidia_CamManager_1_0_1_82
 *Apr 27, 2022*
-- fixed camera finder issue when more than 96 cameras are pouplated in a network
+- fixed camera finder issue when more than 96 cameras are populated in a network
 
 ### SVidia_CamManager_1_0_1_81
 *Mar 01, 2022*
