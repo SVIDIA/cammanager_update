@@ -1,7 +1,7 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_84
-*Feb 15, 2023*
+### SVidia_CamManager_1_0_1_85
+*Feb 16, 2023*
 - NVR camera state adaptive refresh
 
 ### SVidia_CamManager_1_0_1_82
