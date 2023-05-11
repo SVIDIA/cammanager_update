@@ -1,5 +1,11 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_86
+*May 10, 2023*
+- added the app inactivity timeout
+- added auto opening unv cameras for configuration in web browser
+- handling unv cameras authentication modes
+
 ### SVidia_CamManager_1_0_1_85
 *Feb 16, 2023*
 - NVR camera state adaptive refresh
