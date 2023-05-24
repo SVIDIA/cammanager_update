@@ -1,4 +1,9 @@
 # SVIDIA CamManager update channel
+### SVidia_CamManager_1_0_1_87
+*May 24, 2023*
+- added keyboard shortcuts Y/N in dialogs
+- fixed empty NVR cameras names
+- fixed managing of unavailable cameras
 
 ### SVidia_CamManager_1_0_1_86
 *May 10, 2023*
