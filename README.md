@@ -1,4 +1,10 @@
 # SVIDIA CamManager update channel
+
+### SVidia_CamManager_1_0_1_87
+*Jun 05, 2023*
+- fixed preferred camera stream profile selection in camera discovery 
+- fixed unavailable cam channels handling
+
 ### SVidia_CamManager_1_0_1_87
 *May 24, 2023*
 - added keyboard shortcuts Y/N in dialogs
