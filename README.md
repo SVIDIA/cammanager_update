@@ -1,6 +1,6 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_87
+### SVidia_CamManager_1_0_1_88
 *Jun 05, 2023*
 - fixed preferred camera stream profile selection in camera discovery 
 - fixed unavailable cam channels handling
