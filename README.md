@@ -1,6 +1,11 @@
 # SVIDIA CamManager update channel
 
 ### SVidia_CamManager_1_0_1_89
+*Oct 24, 2023*
+- fixed crash while quering some camera models
+- fixed app notifications in Windows 11
+
+### SVidia_CamManager_1_0_1_89
 *Jun 23, 2023*
 - add auto opening several camera types in bundled web browser
 
