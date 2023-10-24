@@ -2,7 +2,7 @@
 
 ### SVidia_CamManager_1_0_1_89
 *Oct 24, 2023*
-- fixed crash while quering some camera models
+- fixed crash while querying some camera models
 - fixed app notifications in Windows 11
 
 ### SVidia_CamManager_1_0_1_89
