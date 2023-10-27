@@ -4,7 +4,7 @@
 *Oct 27, 2023*
 - added web automation for AVTech cameras
 - changed update notifications
-- improved UNC camera batch configuration
+- improved UNV camera batch configuration
 
 ### SVidia_CamManager_1_0_1_90
 *Oct 24, 2023*
