@@ -1,6 +1,12 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_89
+### SVidia_CamManager_1_0_1_91
+*Oct 27, 2023*
+- added web automation for AVTech cameras
+- changed update notifications
+- improved UNC camera batch configuration
+
+### SVidia_CamManager_1_0_1_90
 *Oct 24, 2023*
 - fixed crash while querying some camera models
 - fixed app notifications in Windows 11
