@@ -1,5 +1,10 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_92
+*Nov 14, 2023*
+- updated UNV sdk
+- fixed UNV cameras change password function
+
 ### SVidia_CamManager_1_0_1_91
 *Oct 27, 2023*
 - added web automation for AVTech cameras
