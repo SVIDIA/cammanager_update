@@ -1,7 +1,7 @@
 # SVIDIA CamManager update channel
 
 ### SVidia_CamManager_1_0_1_92
-*Nov 17, 2023*
+*Nov 20, 2023*
 - updated camera password modification mechanism
 - improved opening cameras for configuration in web browser 
 - minor visual fixes
