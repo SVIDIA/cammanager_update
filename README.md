@@ -1,6 +1,10 @@
 # SVIDIA CamManager update channel
 
-### SVidia_CamManager_1_0_1_93
+### SVidia_CamManager_1_0_1_95
+*Apr 09, 2024*
+- improved configuration mode for build-in camera analytics
+
+### SVidia_CamManager_1_0_1_94
 *Jan 11, 2024*
 - minor stability fixes
 
