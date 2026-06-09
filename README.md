@@ -1,5 +1,18 @@
 # SVIDIA CamManager update channel
 
+### SVidia_CamManager_1_0_1_98
+*Jun 09, 2026*
+- updated UNV sdk to v2.7.10
+- migrated to .NET 8 runtime
+- increased camera/NVR connection timeout
+- NVR settings now load in background with progress indication
+- camera operations disabled while NVR settings are loading
+- NVR disconnected with notification when settings fail to load
+- NVR shown online only after settings finish loading
+- non-blocking NVR reconnect and edit
+- fixed crash when editing NVR
+- minor visual and stability fixes
+
 ### SVidia_CamManager_1_0_1_95
 *Apr 09, 2024*
 - improved configuration mode for build-in camera analytics
