@@ -13,7 +13,7 @@
 - fixed crash when editing NVR
 - minor visual and stability fixes
 
-### SVidia_CamManager_1_26_2_95
+### SVidia_CamManager_1_0_1_95
 *Apr 09, 2024*
 - improved configuration mode for build-in camera analytics
 
