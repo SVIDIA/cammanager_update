@@ -1,7 +1,7 @@
 # SVIDIA CamManager update channel
 
 ### SVIDIA Camera Manager 1.26.7.99
-*Jul 30, 2026 — changes since 1.26.6.98*
+*Jul 30, 2026*
 
 - support for VCore8 (V8) NVRs
 - up to 32 cameras per NVR
