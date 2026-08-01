@@ -1,5 +1,23 @@
 # SVIDIA CamManager update channel
 
+### SVIDIA Camera Manager 1.26.7.99
+*Jul 30, 2026 — changes since 1.26.6.98*
+
+- support for VCore8 (V8) NVRs
+- up to 32 cameras per NVR
+- video above 4K now displays
+- camera access permissions cover all 32 cameras
+- NVR license type, serial and expiry shown in NVR Info
+- NVR time zone, UTC offset and clock difference shown in NVR Info
+- NVR license and system messages shown in NVR Messages
+- camera settings load up to 6× faster on NVRs without extended support
+- supervisors now shown with access to every camera
+- permissions that cannot be changed no longer look editable
+- failed user saves now report the reason from the NVR
+- default source for a new camera is "RTSP Camera" on V8 NVRs
+- legacy NVRs work exactly as before; the new features switch on only when the NVR supports them
+
+
 ### SVidia_CamManager_1_26_6_98
 *Jun 14, 2026*
 - updated UNV sdk to v2.7.10
