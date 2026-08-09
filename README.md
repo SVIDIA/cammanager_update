@@ -1,5 +1,15 @@
 # SVIDIA CamManager update channel
 
+## SVIDIA Camera Manager 1.26.7.100
+*Aug 9, 2026*
+
+- fixed: after connecting to a V8 NVR, the whole NVR list was lost on the next start — an NVR you added simply disappeared
+- the NVR list is now read back as it is saved, so a save that cannot be reloaded no longer replaces a good one
+- the previous NVR list is kept alongside the current one and used automatically if the current one cannot be read
+- problems saving or loading the NVR list are now written to the log instead of passing unnoticed
+- NVRs added on 1.26.7.99 against a legacy NVR are unaffected and load as before
+
+
 ### SVIDIA Camera Manager 1.26.7.99
 *Jul 30, 2026*
 
