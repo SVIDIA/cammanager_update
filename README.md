@@ -1,5 +1,19 @@
 # SVIDIA CamManager update channel
 
+## SVIDIA Camera Manager 1.26.7.101
+*Oct 3, 2026*
+
+- camera status on V8 NVRs (8.0.1521 and later) now updates live: a change shows within about a second instead of at the next refresh
+- cameras that are still starting show as connecting (blue) instead of failed
+- new icon for a camera that is switched on but has no video source configured (red camera with a yellow gear)
+- the camera tooltip now says why a camera has no video (camera unreachable, wrong user name or password, stream not found, video stopped, capture process stopped …), since when, the last video and the number of reconnect attempts
+- supervisors also see the NVR's own explanation in the tooltip
+- switched-off and unlicensed cameras are named as such in the tooltip
+- a message and a notification when cameras are switched on but not covered by the NVR license
+- switching a camera on beyond the NVR's licensed channels is now reported, instead of showing "applied successfully"
+- fixed: camera icons could stay gray after an NVR was disabled and enabled again
+- legacy NVRs and V8 NVRs before 8.0.1521 show camera status as before
+
 ## SVIDIA Camera Manager 1.26.7.100
 *Aug 9, 2026*
 
